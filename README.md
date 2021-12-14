@@ -1,11 +1,7 @@
-# Hey!
+# Hey! 👋
 
-### **About me**
-My name is [Riza Zainudin](https://www.linkedin.com/in/riza-zainudin/) and I am a full-time data analyst with a certificate from [The Center of Applied Data Science] (https://www.linkedin.com/company/thecads), I have completed a data analyst track training last February 2021
+### About me
+My name is [Riza Zainudin](https://www.linkedin.com/in/riza-zainudin/) and I am a full-time data analyst with a certificate from [The Center of Applied Data Science (CADS)](https://www.linkedin.com/company/thecads/), I have completed a data analyst track training last February 2021. I believe that data tells us more than just numbers, it helps us to understand our users and their desires.
 
-About Me
-My name is Jay Sueno and I'm a novice data scientist with a certificate from UC San Diego in Data Science and Visualization. I believe that artifical intelligence and machine learning are the next industrial revolution and can be a cause for good in the world. It's up to humans like you and me to guide that future.
+I’m aiming to progress my career, and I'm seeking opportunities in maximizing my potential and developing new skills related to data science and analytics. I'm motivated by digging into data. Give me a spreadsheet and questions, and I'm eager to figure out what's driving the numbers. Being able to provide that essential information is really motivating.
 
-One of the paradigms I ascribe to is intersectional activism to solve the challenges of our world. Climate change, inequality, environmental justice, technology, education, race, and human ingenuity are interconnected. I believe that through data we can find patterns and educate ourselves to choose the best decisions.
-
-Index

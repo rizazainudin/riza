@@ -1,7 +1,7 @@
 # Hey!
 
 ### **About me**
-My name is [Riza Zainudin](https://www.linkedin.com/in/riza-zainudin/) and I am a full-time data analyst with a certificate from [The Center of Applied Data Science (CADS)] (https://www.linkedin.com/company/thecads), I have completed a data analyst track training last February 2021
+My name is [Riza Zainudin](https://www.linkedin.com/in/riza-zainudin/) and I am a full-time data analyst with a certificate from [The Center of Applied Data Science] (https://www.linkedin.com/company/thecads), I have completed a data analyst track training last February 2021
 
 About Me
 My name is Jay Sueno and I'm a novice data scientist with a certificate from UC San Diego in Data Science and Visualization. I believe that artifical intelligence and machine learning are the next industrial revolution and can be a cause for good in the world. It's up to humans like you and me to guide that future.

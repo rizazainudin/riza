@@ -2,4 +2,4 @@
 
 ## About me
 
-My name is Riza Zainudin 
+My name is [Riza Zainudin](https://www.linkedin.com/in/riza-zainudin/)

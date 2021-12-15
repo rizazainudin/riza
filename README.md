@@ -10,9 +10,9 @@ My name is [Riza Zainudin](https://www.linkedin.com/in/riza-zainudin/) and I am 
 ### Data Analytics Projects
 Take a look at my recent work. I showcase my skills in Python, SQL and Tableau using the real-world data.
   - Python projects
-  -   ✔️ Fashion E-Commerce Inventory 
-  -   ✔️ COVID-19 Cases
-  -   🛠 Grab Driver-Partner Engagement
+    -   ✔️ Fashion E-Commerce Inventory 
+    -   ✔️ COVID-19 Cases
+    -   🛠 Grab Driver-Partner Engagement
   - SQL query projects
     ✔️ Harry Potter Movies Scripts
     🛠 Average Handling Time

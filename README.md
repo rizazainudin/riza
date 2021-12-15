@@ -5,16 +5,16 @@ My name is [Riza Zainudin](https://www.linkedin.com/in/riza-zainudin/) and I am 
 
 🌱 I’m aiming to progress my career, and I'm seeking opportunities in maximizing my potential and developing new skills related to data science and analytics. I'm motivated by digging into data. Give me a spreadsheet and questions, and I'm eager to figure out what's driving the numbers. Being able to provide that essential information is really motivating.
 
-📫 How to reach me ...
+📫 Reach me at [LinkedIn](https://www.linkedin.com/in/riza-zainudin/)
 
 ### Data Analytics Projects
 Take a look at my recent work. I showcase my skills in Python, SQL and Tableau using the real-world data.
   - Python projects
-    -   ✔️ [Fashion E-Commerce Inventory](https://github.com/RizaZainudin/python-projects/blob/main/Fashion.ipynb)
-    -   ✔️ [COVID-19 Cases](https://github.com/RizaZainudin/python-projects/blob/main/Covid-19%20Data%20Analysis.ipynb)
-    -   🛠 Grab Driver-Partner Engagement
+    - ✔️ [Fashion E-Commerce Inventory](https://github.com/RizaZainudin/python-projects/blob/main/Fashion.ipynb)
+    - ✔️ [COVID-19 Cases](https://github.com/RizaZainudin/python-projects/blob/main/Covid-19%20Data%20Analysis.ipynb)
+    - 🛠 Grab Driver-Partner Engagement
   - SQL query projects
-    - ✔️ Harry Potter Movies Scripts
+    - ✔️ [Harry Potter Movies Scripts](https://github.com/rizainudin/sql-projects/blob/main/HarryPotter_SQL.ipynb)
     - 🛠 Average Handling Time
   - Data Visualisations on Tableau 
     - ✔️ [Disney Movies](https://public.tableau.com/app/profile/riza.zainudin/viz/Disney_16210753523740/Dashboard1)

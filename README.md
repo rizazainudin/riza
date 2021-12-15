@@ -10,14 +10,14 @@ My name is [Riza Zainudin](https://www.linkedin.com/in/riza-zainudin/) and I am 
 ### Data Analytics Projects
 Take a look at my recent work. I showcase my skills in Python, SQL and Tableau using the real-world data.
   - Python projects
-    -   ✔️ Fashion E-Commerce Inventory 
-    -   ✔️ COVID-19 Cases
+    -   ✔️ [Fashion E-Commerce Inventory](https://github.com/RizaZainudin/python-projects/blob/main/Fashion.ipynb)
+    -   ✔️ [COVID-19 Cases](https://github.com/RizaZainudin/python-projects/blob/main/Covid-19%20Data%20Analysis.ipynb)
     -   🛠 Grab Driver-Partner Engagement
   - SQL query projects
-    ✔️ Harry Potter Movies Scripts
-    🛠 Average Handling Time
+    - ✔️ Harry Potter Movies Scripts
+    - 🛠 Average Handling Time
   - Data Visualisations on Tableau 
-    ✔️ [Disney Movies](https://public.tableau.com/app/profile/riza.zainudin/viz/Disney_16210753523740/Dashboard1)
-    ✔️ [Airbnb Listings](https://public.tableau.com/app/profile/riza.zainudin/viz/AIrbnb_16186411719070/R1)
-    ✔️ [Superstore Sales](https://public.tableau.com/app/profile/riza.zainudin/viz/Superstoresales_16158884322510/Dashboard1)
+    - ✔️ [Disney Movies](https://public.tableau.com/app/profile/riza.zainudin/viz/Disney_16210753523740/Dashboard1)
+    - ✔️ [Airbnb Listings](https://public.tableau.com/app/profile/riza.zainudin/viz/AIrbnb_16186411719070/R1)
+    - ✔️ [Superstore Sales](https://public.tableau.com/app/profile/riza.zainudin/viz/Superstoresales_16158884322510/Dashboard1)
     

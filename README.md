@@ -8,7 +8,7 @@
 
 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/riza-zainudin/)
 
-### Data Analytics Project
+### Data Analytics Projects
 Take a look at my recent work. I showcase my skills in Python, SQL and Tableau using the real-world data.
   - Python projects
     - ✔️ [Fashion E-Commerce Inventory](https://github.com/RizaZainudin/python-projects/blob/main/Fashion.ipynb)

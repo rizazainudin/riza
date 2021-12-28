@@ -13,7 +13,7 @@ Take a look at my recent work. I showcase my skills in Python, SQL and Tableau u
   - Python projects
     - ✔️ [Fashion E-Commerce Inventory](https://github.com/RizaZainudin/python-projects/blob/main/Fashion.ipynb)
     - ✔️ [COVID-19 Cases](https://github.com/rizazainudin/python-covid19/blob/main/Covid-19%20Data%20Analysis.ipynb)
-    - 🛠 Driver-Partner Engagement on Social Media Platform
+    - ✔️ [Driver-Partner Engagement](https://github.com/rizazainudin/python-driver-partner/blob/main/driver_partner_analysis.ipynb)
   - SQL query projects
     - ✔️ [Harry Potter Movies Scripts](https://github.com/rizainudin/sql-projects/blob/main/HarryPotter_SQL.ipynb)
     - 🛠 Average Handling Time

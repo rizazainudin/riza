@@ -16,7 +16,7 @@ Take a look at my recent work. I showcase my skills in Python, SQL and Tableau u
     - ✔️ [COVID-19 Cases](https://github.com/rizazainudin/python-covid19/blob/main/Covid-19%20Data%20Analysis.ipynb)
   - SQL query projects
     - ✔️ [Harry Potter Movies Scripts](https://github.com/rizainudin/sql-projects/blob/main/HarryPotter_SQL.ipynb)
-    - 🛠 Average Handling Tim
+    - 🛠 Average Handling Time
   - Data Visualisations on Tableau 
     - ✔️ [Disney Movies](https://public.tableau.com/app/profile/riza.zainudin/viz/Disney_16210753523740/Dashboard1)
     - ✔️ [Airbnb Listings](https://public.tableau.com/app/profile/riza.zainudin/viz/AIrbnb_16186411719070/R1)

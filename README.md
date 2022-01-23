@@ -7,6 +7,7 @@
 🌱 I’m aiming to progress my career, and I'm seeking opportunities in maximizing my potential and developing new skills related to data science and analytics. I'm motivated by digging into data. Give me a spreadsheet and questions, and I'm eager to figure out what's driving the numbers. Being able to provide that essential information is really motivating.
 
 📫 Reach me at [linkedin.com/in/riza-zainudin](https://www.linkedin.com/in/riza-zainudin/)
+
 🖥️ Check out my website at [rizazainudin.github.io](https://rizazainudin.github.io/home/)
 
 ### Data Analytics Projects

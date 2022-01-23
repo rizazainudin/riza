@@ -1,4 +1,4 @@
-# Bonjour! 👋
+# Bonjour, Hello! 👋
 
 ### About me
 
